@@ -1,0 +1,35 @@
+.button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.feedbackButton:hover {
+  background-color: #227c25;
+}
+.resetButton:hover {
+  background-color: #db200f;
+}
+
+.resetButton {
+  background-color: #f85a4f;
+  color: white;
+  width: 88px;
+  height: 37px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.feedbackButton {
+  background-color: #4caf50;
+  color: white;
+  width: 88px;
+  height: 37px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
