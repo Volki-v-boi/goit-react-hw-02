@@ -1,4 +1,4 @@
-import styles from "../Options/Options.module.css";
+import styles from "./Options.module.css";
 
 export default function Options({
   handleFeedback,
